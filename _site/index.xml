@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Software of MSS RWTH Aachen</title>
+<link>https://eikes-organization.github.io/website_test/</link>
+<atom:link href="https://eikes-organization.github.io/website_test/index.xml" rel="self" type="application/rss+xml"/>
+<description>Overview website of all public available sofware of the Profile Area Modeling &amp; Simulation Sciences at RWTH Aachen university</description>
+<generator>quarto-1.7.31</generator>
+<lastBuildDate>Mon, 30 Jun 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>bryne</title>
+  <link>https://eikes-organization.github.io/website_test/software_pages/bryne/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+ ]]></description>
+  <category>execution</category>
+  <guid>https://eikes-organization.github.io/website_test/software_pages/bryne/</guid>
+  <pubDate>Mon, 30 Jun 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://eikes-organization.github.io/website_test/software_pages/bryne/featured.png" medium="image" type="image/png" height="98" width="144"/>
+</item>
+<item>
+  <title>SHIRE</title>
+  <link>https://eikes-organization.github.io/website_test/software_pages/SHIRE/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+ ]]></description>
+  <category>Landslide</category>
+  <category>Random Forest</category>
+  <guid>https://eikes-organization.github.io/website_test/software_pages/SHIRE/</guid>
+  <pubDate>Sun, 07 Apr 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://eikes-organization.github.io/website_test/software_pages/SHIRE/featured.png" medium="image" type="image/png" height="98" width="144"/>
+</item>
+<item>
+  <title>SHIRE</title>
+  <link>https://eikes-organization.github.io/website_test/software_pages/pyresice/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+ ]]></description>
+  <category>Landslide</category>
+  <category>Random Forest</category>
+  <guid>https://eikes-organization.github.io/website_test/software_pages/pyresice/</guid>
+  <pubDate>Sun, 07 Apr 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://eikes-organization.github.io/website_test/software_pages/pyresice/featured.png" medium="image" type="image/png" height="98" width="144"/>
+</item>
+<item>
+  <title>PSimPy</title>
+  <link>https://eikes-organization.github.io/website_test/software_pages/PSimPy/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+ ]]></description>
+  <category>Landslide</category>
+  <category>Gaussian Process</category>
+  <category>Uncertainty Quantification</category>
+  <guid>https://eikes-organization.github.io/website_test/software_pages/PSimPy/</guid>
+  <pubDate>Sat, 08 Jul 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://eikes-organization.github.io/website_test/software_pages/PSimPy/featured.png" medium="image" type="image/png" height="98" width="144"/>
+</item>
+</channel>
+</rss>

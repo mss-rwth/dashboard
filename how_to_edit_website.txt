@@ -1,0 +1,4 @@
+
+1. resize cover images following th instructions in the powerpoint "images_for_website"
+
+Available Styles: https://bootswatch.com/spacelab/

@@ -1,0 +1,17 @@
+---
+title: "Contact"
+image: images/profile.png
+about:
+  template: trestles
+  links:
+    - icon: envelope-fill
+      href: "mailto:kowalski@mbd.rwth-aachen.de"
+      aria-label: Email
+    - icon: linkedin
+      href: https://www.linkedin.com/in/julia-kowalski-a7348687
+      aria-label: LinkedIn
+---
+
+This website gives an overview over all publicly available software packages created by members of MSS.
+This website is created and managed by Methods for Model-based Development in Computational Engineering (MBD) under the supervision of Uni.-Prof. Dr. sc. habil. Julia Kowalski.
+So far only software of MBD is featured.

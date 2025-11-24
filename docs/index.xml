@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Software of MSS RWTH Aachen</title>
+<link>https://eikes-organization.github.io/website_test/</link>
+<atom:link href="https://eikes-organization.github.io/website_test/index.xml" rel="self" type="application/rss+xml"/>
+<description>Overview website of all public available sofware of the Profile Area Modeling &amp; Simulation Sciences at RWTH Aachen university</description>
+<generator>quarto-1.7.31</generator>
+<lastBuildDate>Mon, 30 Jun 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>bryne</title>
+  <link>https://eikes-organization.github.io/website_test/software_pages/bryne/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><embed src="poster-bryne.pdf" style="width:200.0%" height="950"></p>
+
+
+
+ ]]></description>
+  <category>MBD</category>
+  <category>FEM</category>
+  <guid>https://eikes-organization.github.io/website_test/software_pages/bryne/</guid>
+  <pubDate>Mon, 30 Jun 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://eikes-organization.github.io/website_test/software_pages/bryne/featured.png" medium="image" type="image/png" height="98" width="144"/>
+</item>
+<item>
+  <title>pyresice</title>
+  <link>https://eikes-organization.github.io/website_test/software_pages/pyresice/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://github.com/Strilanc/Quirk">Quirk</a></p>
+
+
+
+ ]]></description>
+  <category>MBD</category>
+  <category>Landslide</category>
+  <category>Random Forest</category>
+  <guid>https://eikes-organization.github.io/website_test/software_pages/pyresice/</guid>
+  <pubDate>Wed, 19 Mar 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://eikes-organization.github.io/website_test/software_pages/pyresice/featured.png" medium="image" type="image/png" height="98" width="144"/>
+</item>
+<item>
+  <title>SHIRE</title>
+  <link>https://eikes-organization.github.io/website_test/software_pages/SHIRE/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><embed src="SHIRE_poster_try-1.pdf" style="width:200.0%" height="950"></p>
+
+
+
+ ]]></description>
+  <category>MBD</category>
+  <category>Landslide</category>
+  <category>Random Forest</category>
+  <guid>https://eikes-organization.github.io/website_test/software_pages/SHIRE/</guid>
+  <pubDate>Sun, 07 Apr 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://eikes-organization.github.io/website_test/software_pages/SHIRE/featured.png" medium="image" type="image/png" height="98" width="144"/>
+</item>
+<item>
+  <title>PSimPy</title>
+  <link>https://eikes-organization.github.io/website_test/software_pages/PSimPy/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><embed src="poster-PSimPy.pdf" style="width:200.0%" height="950"></p>
+
+
+
+ ]]></description>
+  <category>MBD</category>
+  <category>Landslide</category>
+  <category>Gaussian Process</category>
+  <category>Uncertainty Quantification</category>
+  <guid>https://eikes-organization.github.io/website_test/software_pages/PSimPy/</guid>
+  <pubDate>Sat, 08 Jul 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://eikes-organization.github.io/website_test/software_pages/PSimPy/featured.png" medium="image" type="image/png" height="98" width="144"/>
+</item>
+<item>
+  <title>Poster Try</title>
+  <link>https://eikes-organization.github.io/website_test/software_pages/Test/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="features" class="level1">
+<h1>Features</h1>
+<div class="card p-3 rounded shadow">
+<ul>
+<li>Continuous Galerkin FEA<br>
+</li>
+<li>Common 1D, 2D, and 3D elements<br>
+</li>
+<li>Symbolic shape function generator<br>
+</li>
+<li>Mixed element spaces<br>
+</li>
+</ul>
+</div>
+</section>
+<section id="oskar" class="level1">
+<h1>Oskar</h1>
+<div class="card p-3 rounded shadow">
+<ul>
+<li>Open-source Python library<br>
+</li>
+<li>Finite Element Approximation (FEA)<br>
+</li>
+<li>Ready-made solver for single-phase thermo-hydro-mechanical (THM) processes<br>
+</li>
+<li>Built with NumPy, SciPy, Matplotlib, pyGIMLi<br>
+</li>
+<li>Cross-platform, lightweight, and extensible<br>
+</li>
+</ul>
+</div>
+</section>
+<section id="scriptbase" class="level1">
+<h1>Scriptbase</h1>
+<div class="card p-3 rounded shadow">
+<ul>
+<li>Simple but flexible PDE interface<br>
+</li>
+<li>Write strong or weak formulations<br>
+</li>
+<li>Symbolic or numerical expressions<br>
+</li>
+</ul>
+</div>
+</section>
+<section id="example" class="level1">
+<h1>Example</h1>
+<div class="card p-3 rounded shadow">
+<p><strong>Weak thermo-elastic coupling (TM)</strong><br>
+Simple bimetal strip with constant load</p>
+
+
+</div>
+</section>
+
+ ]]></description>
+  <category>mbd</category>
+  <guid>https://eikes-organization.github.io/website_test/software_pages/Test/</guid>
+  <pubDate>Fri, 31 Dec 1999 23:00:00 GMT</pubDate>
+  <media:content url="https://eikes-organization.github.io/website_test/software_pages/Test/featured.png" medium="image" type="image/png" height="98" width="144"/>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,42 @@
+---
+title: "Poster Try"
+date: "2000-01-01"
+categories: [mbd]
+image: "featured.png"
+affiliation: "Federal Office for the Safety of Nuclear Waste Management (BASE), Berlin, Germany"
+format: 
+  html:
+    theme: cosmo
+    page-layout: full
+    css: styles.css
+---
+
+# Features
+::: {.card .p-3 .rounded .shadow}
+- Continuous Galerkin FEA  
+- Common 1D, 2D, and 3D elements  
+- Symbolic shape function generator  
+- Mixed element spaces  
+:::
+
+
+# Oskar
+::: {.card .p-3 .rounded .shadow}
+- Open-source Python library  
+- Finite Element Approximation (FEA)  
+- Ready-made solver for single-phase thermo-hydro-mechanical (THM) processes  
+- Built with NumPy, SciPy, Matplotlib, pyGIMLi  
+- Cross-platform, lightweight, and extensible  
+:::
+
+# Scriptbase
+::: {.card .p-3 .rounded .shadow}
+- Simple but flexible PDE interface  
+- Write strong or weak formulations  
+- Symbolic or numerical expressions  
+:::
+
+# Example
+::: {.card .p-3 .rounded .shadow}
+**Weak thermo-elastic coupling (TM)**  
+Simple bimetal strip with constant load  

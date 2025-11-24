@@ -1,0 +1,52 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    <!-- - "images/twitter-card.png" -->
+
+author-meta: "Eike Bergen and Julia Kowalski"
+lang: en
+
+website:
+  favicon: images/profile.png
+  title: "Software of MSS RWTH Aachen"
+  site-url: https://eikes-organization.github.io/website_test/
+  description: 'Overview website of all public available sofware of the Profile Area Modeling & Simulation Sciences at RWTH Aachen university'
+
+  repo-url: https://github.com/Eikes-Organization/website_test/
+  repo-actions: [edit, issue , source]
+
+  navbar:
+    background: "#343a40"
+    right:
+      - text: About
+        href: about.qmd
+      - text: MSS
+        href: https://www.mss.rwth-aachen.de/cms/~eiqx/mss/?lidx=1
+      - icon: rss-fill
+        href: index.xml
+        aria-label: RSS
+      - icon: github
+        href: https://github.com/mbd-rwth/.github
+        aria-label: GitHub repo
+      - icon: linkedin
+        href: https://www.linkedin.com/company/rwth-mbd/ 
+        aria-label: LinkedIn
+
+  page-footer:
+    right: "built with [Quarto](https://quarto.org/)."
+    left: |
+      Created by
+      [![](https://git.rwth-aachen.de/uploads/-/system/group/avatar/34022/mbd_logo.png?){fig-alt="MBD" width=20px}](https://mbd.pages.rwth-aachen.de/)
+
+format:
+  html:
+    theme:
+      light: [litera, styles.scss]
+      dark: [darkly, styles-dark.scss]
+    highlight-style: a11y-dark
+    mainfont: "Atkinson Hyperlegible"
+    code-copy: true
+    code-overflow: wrap
+
+editor: visual

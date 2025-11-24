@@ -1,0 +1,10 @@
+---
+title: "pyresice"
+date: "2025-03-20"
+categories: [MBD,Landslide, Random Forest]
+image: "featured.png"
+image-alt: "SHIRE (Susceptibility Hazard mappIng fRamEwork) is a tool to facilitate and streamline landslide susceptibility and hazard mapping using a Random Forest classifier."
+---
+
+
+[Quirk](https://github.com/Strilanc/Quirk)
