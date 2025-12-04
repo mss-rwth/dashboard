@@ -56,7 +56,7 @@
     "body-box-args": (
         inset: 0.6em,
         width: 100%,
-        stroke: white
+        stroke: rgb(241, 158, 176)
     ),
     "body-text-args": (:),
     "heading-box-args": (

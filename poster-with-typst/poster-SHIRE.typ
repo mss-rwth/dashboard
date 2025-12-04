@@ -85,15 +85,15 @@
     ],
     box(width: 100%)[#pop.set-theme(pop.uni-fr-middle-pink)
         #pop.column-box(heading: "      Overview",stretch-to-next: true)[
-          #figure[#link("https://git.rwth-aachen.de/mbd/shire/-/blob/main/docs/user_manual.pdf?ref_type=heads")[#image("manual.png", width: 40%)]]
+          #figure[#link("https://git.rwth-aachen.de/mbd/shire/-/blob/main/docs/user_manual.pdf?ref_type=heads")[#image("Misc/manual.png", width: 40%)]]
           #place(center,"User Manual")
           #linebreak()
           #linebreak()
-          #figure[#link("https://git.rwth-aachen.de/mbd/shire/-/tree/main/examples?ref_type=heads")[#image("example.png", width: 40%)]]
+          #figure[#link("https://git.rwth-aachen.de/mbd/shire/-/tree/main/examples?ref_type=heads")[#image("./Misc/example.png", width: 40%)]]
           #place(center,"Example")
           #linebreak()
           #linebreak()
-          #figure[#link("mailto:yildiz@mbd.rwth-aachen.de")[#image("contact.png", width: 40%)]]
+          #figure[#link("mailto:yildiz@mbd.rwth-aachen.de")[#image("./Misc/contact.png", width: 40%)]]
           #place(center,"Contact")
 
           #place(bottom+center,figure[#image("./Content_Shire/gitlab-qr-box.png", width: 80%)])
@@ -103,4 +103,4 @@
 )
 
 #pop.set-theme(pop.uni-fr-middle-yellow)
-#pop.bottom-box()[#figure[#image("mss-rwth.png", width: 5%,)]]
+#pop.bottom-box()[#figure[#image("./Misc/mss-rwth.png", width: 5%,)]]
