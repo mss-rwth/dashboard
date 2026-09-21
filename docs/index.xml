@@ -82,7 +82,10 @@
 
 
 
-<p><img src="https://eikes-organization.github.io/website_test/software_pages/PSimPy/poster-PSimPy.svg" class="img-fluid"></p>
+<div class="poster-container">
+<p><img src="https://eikes-organization.github.io/website_test/software_pages/PSimPy/poster-PSimPy.svg" class="poster-img img-fluid"></p>
+</div>
+<p><a href="poster-PSimPy.pdf">Download as PDF</a></p>
 
 
 

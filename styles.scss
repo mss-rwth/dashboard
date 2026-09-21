@@ -6,3 +6,16 @@ $font-family: "Atkinson Hyperlegible", sans-serif;
 $font-family-serif: "Atkinson Hyperlegible", sans-serif;
 
 /*-- scss:rules --*/
+
+.poster-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
+}
+.poster-img {
+  max-width: 100%;
+  max-height: 100vh;
+  object-fit: contain;
+}

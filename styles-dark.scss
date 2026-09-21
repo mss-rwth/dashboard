@@ -17,3 +17,16 @@ kbd, .kbd{
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }
+
+.poster-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
+}
+.poster-img {
+  max-width: 100%;
+  max-height: 100vh;
+  object-fit: contain;
+}
