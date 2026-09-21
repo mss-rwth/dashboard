@@ -7,4 +7,4 @@ image-alt: "PSimPy (Predictive and probabilistic simulation with Python) impleme
 ---
 
 
-![](poster-PSimPy.pdf){width=200% height=950px}
+![](poster-PSimPy.svg)
