@@ -1,5 +1,5 @@
 ---
-title: "PSimPy"
+title: "PSimPy-:D"
 date: "2023-07-09"
 categories: [MBD]
 image: "featured.png"
