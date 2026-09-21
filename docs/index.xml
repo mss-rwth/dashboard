@@ -26,7 +26,6 @@
 
  ]]></description>
   <category>MBD</category>
-  <category>FEM</category>
   <guid>https://eikes-organization.github.io/website_test/software_pages/bryne/</guid>
   <pubDate>Mon, 30 Jun 2025 22:00:00 GMT</pubDate>
   <media:content url="https://eikes-organization.github.io/website_test/software_pages/bryne/featured.png" medium="image" type="image/png" height="98" width="144"/>
@@ -46,8 +45,6 @@
 
  ]]></description>
   <category>MBD</category>
-  <category>Landslide</category>
-  <category>Random Forest</category>
   <guid>https://eikes-organization.github.io/website_test/software_pages/pyresice/</guid>
   <pubDate>Wed, 19 Mar 2025 23:00:00 GMT</pubDate>
   <media:content url="https://eikes-organization.github.io/website_test/software_pages/pyresice/featured.png" medium="image" type="image/png" height="98" width="144"/>
@@ -67,8 +64,6 @@
 
  ]]></description>
   <category>MBD</category>
-  <category>Landslide</category>
-  <category>Random Forest</category>
   <guid>https://eikes-organization.github.io/website_test/software_pages/SHIRE/</guid>
   <pubDate>Sun, 07 Apr 2024 22:00:00 GMT</pubDate>
   <media:content url="https://eikes-organization.github.io/website_test/software_pages/SHIRE/featured.png" medium="image" type="image/png" height="98" width="144"/>
@@ -83,7 +78,8 @@
 
 
 <div class="poster-container">
-<p><img src="https://eikes-organization.github.io/website_test/software_pages/PSimPy/poster-PSimPy.svg" class="poster-img img-fluid"></p>
+<object type="image/svg+xml" data="poster-PSimPy.svg" class="poster-img">
+</object>
 </div>
 <p><a href="poster-PSimPy.pdf">Download as PDF</a></p>
 
@@ -91,9 +87,6 @@
 
  ]]></description>
   <category>MBD</category>
-  <category>Landslide</category>
-  <category>Gaussian Process</category>
-  <category>Uncertainty Quantification</category>
   <guid>https://eikes-organization.github.io/website_test/software_pages/PSimPy/</guid>
   <pubDate>Sat, 08 Jul 2023 22:00:00 GMT</pubDate>
   <media:content url="https://eikes-organization.github.io/website_test/software_pages/PSimPy/featured.png" medium="image" type="image/png" height="96" width="144"/>
