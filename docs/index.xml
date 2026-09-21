@@ -58,7 +58,11 @@
 
 
 
-<p><embed src="SHIRE_poster_try-1.pdf" style="width:200.0%" height="950"></p>
+<div class="poster-container">
+<object type="image/svg+xml" data="poster-template-SHIRE.svg" class="poster-img">
+</object>
+</div>
+<p><a href="SHIRE_poster.pdf">Download as PDF</a></p>
 
 
 
