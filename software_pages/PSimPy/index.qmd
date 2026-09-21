@@ -1,7 +1,7 @@
 ---
 title: "PSimPy"
 date: "2023-07-09"
-categories: [MBD,Landslide, Gaussian Process, Uncertainty Quantification]
+categories: [MBD]
 image: "featured.png"
 image-alt: "PSimPy (Predictive and probabilistic simulation with Python) implements a Gaussian process emulation-based framework that enables systematic and efficient investigation of uncertainties associated with physics-based models (i.e. simulators)."
 ---
