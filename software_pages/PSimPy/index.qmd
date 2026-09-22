@@ -9,7 +9,7 @@ resources:
 ---
 
 ::: {.poster-container}
-<object type="image/svg+xml" data="poster-PSimPy.svg" class="poster-img"></object>
+<object type="image/svg+xml" data="poster_PSimPy.svg" class="poster-img"></object>
 :::
 
 [Download as PDF](poster_PSimPy.pdf)
