@@ -5,11 +5,11 @@ categories: [MBD]
 image: "featured.png"
 image-alt: "PSimPy (Predictive and probabilistic simulation with Python) implements a Gaussian process emulation-based framework that enables systematic and efficient investigation of uncertainties associated with physics-based models (i.e. simulators)."
 resources:
-  - poster-PSimPy.svg
+  - poster_PSimPy.svg
 ---
 
 ::: {.poster-container}
 <object type="image/svg+xml" data="poster-PSimPy.svg" class="poster-img"></object>
 :::
 
-[Download as PDF](poster-PSimPy.pdf)
+[Download as PDF](poster_PSimPy.pdf)
