@@ -1,0 +1,16 @@
+---
+title: "SHOWME.how"
+date: "2024-04-08"
+categories: [MBD]
+image: "logo.png"
+image-alt: ""
+resources:
+  - poster-SHIRE.svg
+description: "Practical guide for making heterogeneous computational studies reproducible and interoperable."
+---
+
+::: {.poster-container}
+<object type="image/svg+xml" data="poster-SHIRE.svg" class="poster-img"></object>
+:::
+
+[Download as PDF](SHIRE_poster.pdf)

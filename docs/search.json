@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "software_pages/Zoomy/index.html",
+    "href": "software_pages/Zoomy/index.html",
+    "title": "Zoomy",
+    "section": "",
+    "text": "Download as PDF"
+  },
+  {
     "objectID": "software_pages/SHIRE/index.html",
     "href": "software_pages/SHIRE/index.html",
     "title": "SHIRE",
@@ -18,7 +25,7 @@
     "href": "index.html",
     "title": "Software of MSS RWTH Aachen",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nbryne2\n\n\nPython framework for building coupled multiphysics FEM models.\n\n\n\nJul 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\npyresice\n\n\n\n\n\n\nMar 20, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nSHIRE\n\n\nPython framework for landslide susceptibility and hazard mapping using a Random Forest classifier.\n\n\n\nApr 8, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nPSimPy\n\n\nPython framework for Gaussian process emulation-based uncertainty quantification, sensitivity analysis, and calibration of physics-based models.\n\n\n\nJul 9, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nbryne\n\n\nPython framework for building coupled multiphysics FEM models.\n\n\n\nJul 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\npyresice\n\n\n\n\n\n\nMar 20, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nSHIRE\n\n\nPython framework for landslide susceptibility and hazard mapping using a Random Forest classifier.\n\n\n\nApr 8, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nZoomy\n\n\nFlexible modeling and simulation software for free-surface flows.\n\n\n\nApr 8, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nSHOWME.how\n\n\nPractical guide for making heterogeneous computational studies reproducible and interoperable.\n\n\n\nApr 8, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nPSimPy\n\n\nPython framework for Gaussian process emulation-based uncertainty quantification, sensitivity analysis, and calibration of physics-based models.\n\n\n\nJul 9, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -30,7 +37,14 @@
   {
     "objectID": "software_pages/bryne/index.html",
     "href": "software_pages/bryne/index.html",
-    "title": "bryne2",
+    "title": "bryne",
+    "section": "",
+    "text": "Download as PDF"
+  },
+  {
+    "objectID": "software_pages/showmehow/index.html",
+    "href": "software_pages/showmehow/index.html",
+    "title": "SHOWME.how",
     "section": "",
     "text": "Download as PDF"
   }

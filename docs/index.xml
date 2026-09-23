@@ -12,7 +12,7 @@
 <generator>quarto-1.7.31</generator>
 <lastBuildDate>Mon, 30 Jun 2025 22:00:00 GMT</lastBuildDate>
 <item>
-  <title>bryne2</title>
+  <title>bryne</title>
   <link>https://eikes-organization.github.io/website_test/software_pages/bryne/</link>
   <description><![CDATA[ 
 
@@ -32,7 +32,7 @@
   <category>MBD</category>
   <guid>https://eikes-organization.github.io/website_test/software_pages/bryne/</guid>
   <pubDate>Mon, 30 Jun 2025 22:00:00 GMT</pubDate>
-  <media:content url="https://eikes-organization.github.io/website_test/software_pages/bryne/featured.png" medium="image" type="image/png" height="98" width="144"/>
+  <media:content url="https://eikes-organization.github.io/website_test/software_pages/bryne/logo.png" medium="image" type="image/png" height="98" width="144"/>
 </item>
 <item>
   <title>pyresice</title>
@@ -50,7 +50,7 @@
   <category>MBD</category>
   <guid>https://eikes-organization.github.io/website_test/software_pages/pyresice/</guid>
   <pubDate>Wed, 19 Mar 2025 23:00:00 GMT</pubDate>
-  <media:content url="https://eikes-organization.github.io/website_test/software_pages/pyresice/featured.png" medium="image" type="image/png" height="98" width="144"/>
+  <media:content url="https://eikes-organization.github.io/website_test/software_pages/pyresice/logo.png" medium="image" type="image/png" height="98" width="144"/>
 </item>
 <item>
   <title>SHIRE</title>
@@ -73,7 +73,53 @@
   <category>MBD</category>
   <guid>https://eikes-organization.github.io/website_test/software_pages/SHIRE/</guid>
   <pubDate>Sun, 07 Apr 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://eikes-organization.github.io/website_test/software_pages/SHIRE/featured.png" medium="image" type="image/png" height="98" width="144"/>
+  <media:content url="https://eikes-organization.github.io/website_test/software_pages/SHIRE/logo.png" medium="image" type="image/png" height="98" width="144"/>
+</item>
+<item>
+  <title>Zoomy</title>
+  <link>https://eikes-organization.github.io/website_test/software_pages/Zoomy/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="poster-container">
+<object type="image/svg+xml" data="poster-SHIRE.svg" class="poster-img">
+</object>
+</div>
+<p><a href="SHIRE_poster.pdf">Download as PDF</a></p>
+
+
+
+ ]]></description>
+  <category>MBD</category>
+  <guid>https://eikes-organization.github.io/website_test/software_pages/Zoomy/</guid>
+  <pubDate>Sun, 07 Apr 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://eikes-organization.github.io/website_test/software_pages/Zoomy/logo.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>SHOWME.how</title>
+  <link>https://eikes-organization.github.io/website_test/software_pages/showmehow/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="poster-container">
+<object type="image/svg+xml" data="poster-SHIRE.svg" class="poster-img">
+</object>
+</div>
+<p><a href="SHIRE_poster.pdf">Download as PDF</a></p>
+
+
+
+ ]]></description>
+  <category>MBD</category>
+  <guid>https://eikes-organization.github.io/website_test/software_pages/showmehow/</guid>
+  <pubDate>Sun, 07 Apr 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://eikes-organization.github.io/website_test/software_pages/showmehow/logo.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>PSimPy</title>
@@ -96,7 +142,7 @@
   <category>MBD</category>
   <guid>https://eikes-organization.github.io/website_test/software_pages/PSimPy/</guid>
   <pubDate>Sat, 08 Jul 2023 22:00:00 GMT</pubDate>
-  <media:content url="https://eikes-organization.github.io/website_test/software_pages/PSimPy/featured.png" medium="image" type="image/png" height="96" width="144"/>
+  <media:content url="https://eikes-organization.github.io/website_test/software_pages/PSimPy/logo.png" medium="image" type="image/png" height="96" width="144"/>
 </item>
 </channel>
 </rss>

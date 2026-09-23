@@ -1,12 +1,12 @@
 ---
-title: "SHIRE"
+title: "Zoomy"
 date: "2024-04-08"
 categories: [MBD]
-image: "logo.png"
+image: "logo.svg"
 image-alt: "SHIRE (Susceptibility Hazard mappIng fRamEwork) is a tool to facilitate and streamline landslide susceptibility and hazard mapping using a Random Forest classifier."
 resources:
   - poster-SHIRE.svg
-description: "Python framework for landslide susceptibility and hazard mapping using a Random Forest classifier."
+description: "Flexible modeling and simulation software for free-surface flows."
 ---
 
 ::: {.poster-container}
