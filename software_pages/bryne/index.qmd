@@ -6,6 +6,7 @@ image: "featured.png"
 image-alt: "Bryne is a python framework to build coupled multiphysics FEM models. It also facilitates the creation of reproducible simulation setups by storing the full human-readable simulation setups with the results."
 resources:
   - poster-bryne.svg
+description: ""
 ---
 
 
