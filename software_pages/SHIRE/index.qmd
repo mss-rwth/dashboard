@@ -4,10 +4,12 @@ date: "2024-04-08"
 categories: [MBD]
 image: "featured.png"
 image-alt: "SHIRE (Susceptibility Hazard mappIng fRamEwork) is a tool to facilitate and streamline landslide susceptibility and hazard mapping using a Random Forest classifier."
+resources:
+  - poster-SHIRE.svg
 ---
 
 ::: {.poster-container}
-<object type="image/svg+xml" data="poster-template-SHIRE.svg" class="poster-img"></object>
+<object type="image/svg+xml" data="poster-SHIRE.svg" class="poster-img"></object>
 :::
 
 [Download as PDF](SHIRE_poster.pdf)

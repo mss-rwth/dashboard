@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://eikes-organization.github.io/website_test/software_pages/Test/index.html</loc>
-    <lastmod>2025-10-27T16:00:17.384Z</lastmod>
+    <loc>https://eikes-organization.github.io/website_test/software_pages/SHIRE/index.html</loc>
+    <lastmod>2026-09-23T07:24:56.644Z</lastmod>
   </url>
   <url>
-    <loc>https://eikes-organization.github.io/website_test/software_pages/pyresice/index.html</loc>
-    <lastmod>2026-09-21T13:21:18.777Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eikes-organization.github.io/website_test/software_pages/bryne/index.html</loc>
-    <lastmod>2026-09-21T13:20:14.779Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eikes-organization.github.io/website_test/about.html</loc>
-    <lastmod>2025-10-12T15:52:28.927Z</lastmod>
+    <loc>https://eikes-organization.github.io/website_test/software_pages/PSimPy/index.html</loc>
+    <lastmod>2026-09-23T07:28:08.130Z</lastmod>
   </url>
   <url>
     <loc>https://eikes-organization.github.io/website_test/index.html</loc>
     <lastmod>2025-10-12T09:47:52.865Z</lastmod>
   </url>
   <url>
-    <loc>https://eikes-organization.github.io/website_test/software_pages/PSimPy/index.html</loc>
-    <lastmod>2026-09-22T15:58:25.636Z</lastmod>
+    <loc>https://eikes-organization.github.io/website_test/about.html</loc>
+    <lastmod>2025-10-12T15:52:28.927Z</lastmod>
   </url>
   <url>
-    <loc>https://eikes-organization.github.io/website_test/software_pages/SHIRE/index.html</loc>
-    <lastmod>2026-09-21T13:38:08.276Z</lastmod>
+    <loc>https://eikes-organization.github.io/website_test/software_pages/bryne/index.html</loc>
+    <lastmod>2026-09-23T07:26:14.742Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eikes-organization.github.io/website_test/software_pages/pyresice/index.html</loc>
+    <lastmod>2026-09-23T07:28:04.153Z</lastmod>
   </url>
 </urlset>
